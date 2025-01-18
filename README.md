@@ -39,7 +39,7 @@ Before you begin, ensure you have the following:
 
 ### Azure Deployment
 
-1. Create a Web App App Service with a Node.js runtime stack in Azure
+1. Create a Web App Service with a Node.js runtime stack in Azure
 2. Enable continuous deployment and connect your GitHub account and repository
 3. Enable basic authentication
 4. Keep the rest of the settings as default
